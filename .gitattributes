@@ -1,0 +1,11 @@
+\# filter=lfs diff=lfs merge=lfs -text
+files filter=lfs diff=lfs merge=lfs -text
+track filter=lfs diff=lfs merge=lfs -text
+karo filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+jo filter=lfs diff=lfs merge=lfs -text
+big filter=lfs diff=lfs merge=lfs -text
+hai filter=lfs diff=lfs merge=lfs -text
+unko filter=lfs diff=lfs merge=lfs -text
