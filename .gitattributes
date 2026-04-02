@@ -9,3 +9,6 @@ jo filter=lfs diff=lfs merge=lfs -text
 big filter=lfs diff=lfs merge=lfs -text
 hai filter=lfs diff=lfs merge=lfs -text
 unko filter=lfs diff=lfs merge=lfs -text
+badi filter=lfs diff=lfs merge=lfs -text
+karlo filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
